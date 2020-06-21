@@ -1,5 +1,5 @@
-var usernames = ["Grathium"];
-var passwords = ["Admin1234!"];
+var usernames = ["admin"];
+var passwords = ["admin"];
 var login = function (usrname, pswd) {
     var loggedIn = false;
     for (var i = 0; i < usernames.length; i++) {
